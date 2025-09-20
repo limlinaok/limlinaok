@@ -1,16 +1,34 @@
-## Hi there 👋 Glad you found your way to my profile..!
+# Hi, I’m Lina 👋
 
+**Linguistics → Data Science.**  
+I’m a **Data Analyst** based in **Vietnam (GMT+7)** who turns messy data into clear stories using **SQL, Python, and Excel**—every single day.
 
-## About me :
+---
 
-- I am Lina, currently based in Ho Chi Minh city, Vietnam.
-- I’m striving to become a professional data analyst, combining strategic thinking with strong technical skills.
-- I’m currently in my final year of studying linguistics. <br>  
-<h1>Connect with me!</h1>
+## What I do
+- 🧠 Translate questions into data problems, then into **SQL queries**
+- 🐍 Build **Python** notebooks & scripts for cleaning, analysis, and quick visuals
+- 📊 Ship **Excel** reports & dashboards that non-tech folks actually use
 
-<a href=https://www.linkedin.com/in/lina-anh-b05a76371/><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href=f><img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href=f><img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <br>
-## Skills 
+## Tech I vibe with
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=databricks&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-![My Skills](https://skillicons.dev/icons?i=python,r,postgresql)
+---
+
+## A little more
+- 🌱 Pivoted from a **Linguistics** B.A. → data, because language + logic = 🔥  
+- 💬 I like **simple explanations** and **actionable insights** over jargon  
+- 🌏 Open to collabs, feedback, and cool data problems
+
+## Connect
+- 📫 Email: limyang558@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/lina-anh-b05a76371/
+
+---
+
